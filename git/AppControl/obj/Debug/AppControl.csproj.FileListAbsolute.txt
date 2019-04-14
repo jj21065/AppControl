@@ -1,0 +1,15 @@
+D:\Git\AppControl\AppControl\bin\Debug\AppControl.exe.config
+D:\Git\AppControl\AppControl\bin\Debug\AppControl.exe
+D:\Git\AppControl\AppControl\bin\Debug\AppControl.pdb
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.csprojAssemblyReference.cache
+D:\Git\AppControl\AppControl\obj\Debug\MainWindow.g.cs
+D:\Git\AppControl\AppControl\obj\Debug\App.g.cs
+D:\Git\AppControl\AppControl\obj\Debug\AppControl_MarkupCompile.cache
+D:\Git\AppControl\AppControl\obj\Debug\AppControl_MarkupCompile.lref
+D:\Git\AppControl\AppControl\obj\Debug\MainWindow.baml
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.g.resources
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.Properties.Resources.resources
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.csproj.GenerateResource.cache
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.csproj.CoreCompileInputs.cache
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.exe
+D:\Git\AppControl\AppControl\obj\Debug\AppControl.pdb
